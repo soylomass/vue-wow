@@ -7,12 +7,21 @@
 * Fast execution and lightweight code
 * Works with Animate.css
 
-## Install & basic usage
+## Install
+
+### NPM
 
 ```bash
-# install
-$ npm install  v-wow
+$ npm install git+https://github.com/guisoares2011/vue-wow
 ```
+
+### Yarn
+
+```bash
+$ yarn add https://github.com/guisoares2011/vue-wow
+```
+
+## Integrate with Vue
 
 ```js 
 import vWow from 'v-wow'
